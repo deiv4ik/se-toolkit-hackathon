@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(timeout *)",
+      "Bash(curl *)",
+      "Bash(powershell *)",
+      "Bash(tasklist)",
+      "Bash(findstr *)",
+      "Bash(.venv\\scripts\\python.exe *)",
+      "Bash(dir *)",
+      "Bash(taskkill *)",
+      "Bash(rmdir *)",
+      "Bash(del *)",
+      "Bash(mkdir *)",
+      "WebSearch"
+    ]
+  },
+  "$version": 3
+}
